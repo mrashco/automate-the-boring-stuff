@@ -10,7 +10,7 @@ def displayInventory(inventory):
     items_total = 0
     for item in inventory:
         print(inventory[item], item)
-        items_total += 1
+        items_total += inventory[item]
     print('Total number of items: ', items_total)
 
 if __name__ == '__main__': main()
