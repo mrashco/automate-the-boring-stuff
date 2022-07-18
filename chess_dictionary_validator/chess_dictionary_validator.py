@@ -2,7 +2,7 @@
 #
 # Chess Dict Validator
 #
-# https://automatetheboringstuff.com/chapter3/
+# https://automatetheboringstuff.com/2e/chapter5/
 #
 ###
 
